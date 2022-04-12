@@ -1,5 +1,5 @@
 # deep-learning
-依次运行：  
+Run the following commands in sequence:  
 python function.py   
 python layer.py  
 python two_layer_net.py  
